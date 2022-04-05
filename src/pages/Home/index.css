@@ -1,0 +1,22 @@
+.container{
+background-image: url("../../assets/image118.svg");
+/* background-color: red; */
+width: 100vw;
+height:100vh;
+z-index: -1;
+/* background-repeat: no-repeat; */
+background-size:cover;
+}
+.texto{
+    margin-left: 350px;
+    margin-top: 150px;
+}
+h1{
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.center{
+    background-color: beige;
+    justify-content: center;
+    align-items: center;
+}

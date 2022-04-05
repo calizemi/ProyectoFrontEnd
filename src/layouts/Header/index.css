@@ -1,0 +1,18 @@
+.first-container{
+  background: transparent;
+  justify-content:flex-start;
+  
+}
+
+.nav-ecommerce {
+    background-color: transparent;
+    overflow: hidden;
+    z-index: -2;
+    
+  }
+  
+  .ul-ecommerce {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+  }
